@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinmayee105
-- 👀 I’m interested in DBMS
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on Data Science
   
