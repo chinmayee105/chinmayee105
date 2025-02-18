@@ -8,7 +8,7 @@
 - ⚡ Hardworking and passionate about solving real-world problems  
 
 ## 🔗 Connect with Me  
-- 🌐 **Portfolio:** [(https://chinmayee-yawalkar.static.domains/)]
+- 🌐 **Portfolio:** [(https://my-portfolio-psi-self-60.vercel.app/)]
 - 💼 **LinkedIn:** [(https://www.linkedin.com/in/chinmayeeyawalkar/)]
 - 📫 **Email:** chinmayeeyawalkar.10@gmail.com 
 
