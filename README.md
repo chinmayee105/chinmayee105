@@ -8,13 +8,13 @@
 - ⚡ Hardworking and passionate about solving real-world problems  
 
 ## 🔗 Connect with Me  
-- 🌐 **Portfolio:** [(https://my-portfolio-psi-self-60.vercel.app/)]
+- 🌐 **Portfolio:** [(https://my-portfolio-rose-two-88.vercel.app/)]
 - 💼 **LinkedIn:** [(https://www.linkedin.com/in/chinmayeeyawalkar/)]
 - 📫 **Email:** chinmayeeyawalkar.10@gmail.com 
 
 ## 📊 My Skills  
 - **Programming Languages:** Python, Java, C  
-- **Databases:** MySQL, R  
+- **Databases:** MySQL 
 - **Data Analytics Tools:** Power BI, Tableau, MS-Excel  
 - **Web Development:** React, Flask  
 - **Machine Learning & AI:** Scikit-learn, Pandas, NumPy  
