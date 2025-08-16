@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chinmayee Yawalkar!  
 
 ## 🚀 About Me  
-- 🎓 MCA 2nd Year Student at R.C. Patel Institute of Management Research and Development, Shirpur  
+- 🎓 MCA completed at R.C. Patel Institute of Management Research and Development, Shirpur  
 - 💡 Passionate about **Data Analytics** and **Software Development**  
 - 💻 Skilled in **Python, Java, MySQL, Machine Learning, Power BI, Tableau, Flask, React, and more**  
 - 🌱 Always learning new technologies and improving my skills  
